@@ -11,7 +11,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone [URL репозитория]
+git clone https://github.com/Danteniu/MIREA_Front_and_Back_2.git
 ```
 
 2. Установите зависимости:
