@@ -4,8 +4,8 @@
 
 ## Требования
 
-- Node.js (версия 14 или выше)
-- npm (Node Package Manager)
+- Node.js
+- npm
 
 ## Установка
 
@@ -39,9 +39,11 @@ http://localhost:3000
 ## Технологии
 
 - HTML5
-
-Победа
 - Sass
 - Bootstrap 5
 - Node.js
 - Express.js 
+
+
+
+Победа
