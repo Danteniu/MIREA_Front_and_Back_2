@@ -36,24 +36,11 @@ npm start
 http://localhost:3000
 ```
 
-## Структура проекта
-
-```
-├── public/
-│   ├── index.html
-│   ├── 404.html
-│   └── css/
-├── src/
-│   └── scss/
-│       └── styles.scss
-├── server.js
-├── package.json
-└── README.md
-```
-
 ## Технологии
 
 - HTML5
+
+Победа
 - Sass
 - Bootstrap 5
 - Node.js
